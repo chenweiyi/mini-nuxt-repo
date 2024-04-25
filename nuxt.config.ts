@@ -8,7 +8,9 @@ export default defineNuxtConfig({
       hashMode: true,
     },
   },
-  vueJsx: {
-    mergeProps: true,
-  },
+  vite: {
+    vueJsx: {
+      mergeProps: true,
+    },
+  }
 });
