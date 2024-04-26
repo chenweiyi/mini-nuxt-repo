@@ -9,15 +9,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "element-plus": "^2.7.1",
     "nuxt": "^3.11.2",
-    "unocss": "^0.59.4",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@element-plus/nuxt": "^1.0.9",
-    "@unocss/nuxt": "^0.59.4",
     "@vue/babel-plugin-jsx": "^1.2.2"
   }
 }

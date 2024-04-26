@@ -2,7 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: false },
   ssr: false,
-  modules: ['@element-plus/nuxt'],
   router: {
     options: {
       hashMode: true,
